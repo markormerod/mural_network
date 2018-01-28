@@ -101,4 +101,3 @@ ENV/
 .mypy_cache/
 images/
 .idea/
-data/model.h5
